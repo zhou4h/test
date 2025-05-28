@@ -65,9 +65,6 @@ function calculatePrice(items) {
       <button onClick={() => convertMarkdownReportToExcel(markdownContent)}>
         导出完整文档
       </button>
-      <button onClick={() => exportMarkdownToExcel(markdownContent2)}>
-        Excel
-      </button>
       <button onClick={() => exportMarkdownToWord(markdownContent2)}>
         Word
       </button>
