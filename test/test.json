@@ -1,0 +1,51 @@
+{
+  "eventId": "dev.t_share_project.updated_instance",
+  "payload": {
+    "afterChangeData": {
+      "priority": "P1: within one week",
+      "project_manager": "1711394287227PEpth",
+      "description": "<p>111111</p>",
+      "name": "test xu",
+      "owner_id": "1711394287227PEpth",
+      "status": "Initiation",
+      "last_modify_time": "2025-02-19T16:45:12",
+      "created_date": "2024-05-13T15:02:14",
+      "account_id": "1715610248248Bmu7X",
+      "id": "1715612534527bPPRs",
+      "entity_name": "GBX",
+      "last_modified_by": "1703220094464WNUCR",
+      "created_by": "1711394287227PEpth",
+      "version": 0.0
+    },
+    "dbEventType": "UPDATE",
+    "dataDiff": {
+      "last_modify_time": {
+        "new": "2025-02-19T16:45:12",
+        "old": "2025-02-19T16:35:15"
+      },
+      "priority": {
+        "new": "P1: within one week",
+        "old": "P2: within one month"
+      }
+    },
+    "beforeChangeData": {
+      "priority": "P2: within one month",
+      "project_manager": "1711394287227PEpth",
+      "description": "<p>111111</p>",
+      "name": "test xu",
+      "owner_id": "1711394287227PEpth",
+      "status": "Initiation",
+      "last_modify_time": "2025-02-19T16:35:15",
+      "created_date": "2024-05-13T15:02:14",
+      "account_id": "1715610248248Bmu7X",
+      "id": "1715612534527bPPRs",
+      "entity_name": "GBX",
+      "last_modified_by": "1703220094464WNUCR",
+      "created_by": "1711394287227PEpth",
+      "version": 0.0
+    }
+  },
+  "eventName": "Project Updated (For FlowBuilder)",
+  "sentTime": "2025-02-19T16:45:25.923202",
+  "user": "1711394287227PEpth"
+}

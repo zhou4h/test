@@ -1,0 +1,14 @@
+{
+  Action2_INPUT_projectAssigneeList=[
+  {
+    assigneeId=292406251751040142,
+    name=Shihao
+    Zhou
+  },
+  {
+    assigneeId=0038c00002nonzyAAA,
+    name=new
+    user
+    request
+  }
+], Action2_INPUT_accountId=test accountId, Action3_INPUT_age=18, Action3_INPUT_name=test name, Action3_INPUT_accountId=test accountId, Action2_INPUT_age=18, Action3_INPUT_projectAssigneeList=[{assigneeId=292406251751040142, name=Shihao Zhou}, {assigneeId=0038c00002nonzyAAA, name=new user request}], Action3_INPUT_status=test status, Action2_INPUT_connectionId=8f87c34b-9fca-46b3-9155-d19e388967a4, InitializeVariable1_INPUT_hahahah=0000000, Action2_INPUT_status=test status, Action3_INPUT_connectionId=8f87c34b-9fca-46b3-9155-d19e388967a4, Action2_INPUT_name=test name, Trigger1_INPUT_age=18, Trigger1_INPUT_connectionId=8f87c34b-9fca-46b3-9155-d19e388967a4}
